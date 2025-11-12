@@ -1,5 +1,8 @@
 # TechStart-Clean
 
+## Live Demo
+[View the site]()
+
 ## Overview
 TechStart-Clean is a simple, responsive landing page built with HTML and CSS.  
 It demonstrates clean design, a navigation bar, hero section, features, pricing, contact form, and footer.
@@ -16,7 +19,6 @@ It demonstrates clean design, a navigation bar, hero section, features, pricing,
 - HTML5
 - CSS3
 
-## Live Demo
-[View the site]()
+
 
 
