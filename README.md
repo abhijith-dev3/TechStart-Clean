@@ -1,7 +1,7 @@
 # TechStart-Clean
 
 ## Live Demo
-[View the site]()
+[View the site](https://abhijith-dev3.github.io/TechStart-Clean/)
 
 ## Overview
 TechStart-Clean is a simple, responsive landing page built with HTML and CSS.  
